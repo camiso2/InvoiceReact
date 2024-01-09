@@ -1,47 +1,34 @@
-## Proyecto personal API :: Attendance
+## Proyecto Personal REACT :: Create Invoice
 
 
 Sistema desarrollado  
 
-El sistema busca llevar el registro de los estudiantes de una institucòn educativa que faltaron a clase, enviando mensajes por whatsApp, email y sms
+El sistema busca simular de forma generica la creación de una factura con datos obtenidos de manera local (.json) y posteriormente ir agregando los detalles de los productos de manera dinámica.
 
-## <a href="https://youtu.be/cm8A9e3Otbw" target="_blank">DEMO</a>
-
-
-Utilidades API :: Attendance
-
-* Envìo de mensajes.
-* Reporte de faltas por alumno.
-* Registrar totalidad de estudiantes por grupo.
-* Generaciòn de reportes totales PDf.
-* Subir imaneges de alumnos.
-* Listar alumnos.
-* Eliminar alumnos.
-* Deshabilitar/Habilitar alumnos.
-* Cerrar Sesión.
-* Editar datos de administrador(instituciòn).
-* Editar datos de Super administrador(sistema).
-* Subir excel con listado de alumnos.
+## <a href="https://www.youtube.com/watch?v=DZrnReaQ6oI" target="_blank">DEMO</a>
 
 
+Utilidades REACT :: Create Invoice
+
+* Lee los datos de un archivo (.json).
+* Crea Detalles de productos de manera dinámica.
+* Elimina productos.
+* Totaliza el costo de los productos.
 
 Tecnologías Usadas
-* Back-end  : PHP->Laravel 10 Sail, Docker, Swagger
-* Metodologìa : TDD
-* tiempo de desarrollo 26 horas
+* Front-end  : JS->Rect 10, Vite
+* Tiempo de desarrollo 32 horas
 
 
 LIBRERIAS EXTERNAS
 <p align="left">
-* <a href="https://github.com/Intervention/image#:~:text=Intervention%20Image%20is%20a%20PHP,Facades%20for%20easy%20Laravel%20integration.">Intervention Image</a>
+* <a href="https://sweetalert2.github.io/">Sweet Alert2</a>
+* <a href="https://vitejs.dev/guide/">Vite</a>
 </p>
 
-<p align="left">
-* <a href="https://github.com/barryvdh/laravel-dompdf">DomPdf</a>
-</p>
 
 Desarrollado
 * Jaiver Andrés Ocampo Oviedo
 * Full Stack Developer
 * Contacto : +57 3174885954
-* Actualmente en desarrollo 
+* Enero 2024 
