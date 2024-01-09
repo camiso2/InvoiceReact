@@ -1,0 +1,28 @@
+.span-wd{
+    font-weight: 700;
+    width: 80px;
+}
+
+.span-company{
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+.al-th{
+    text-align: center;
+}
+
+.button{
+    color: white;
+
+    font-weight: 800;
+}
+
+.back-cl{
+    background-color: 	rgb(27, 42, 78) !important;
+    border: 0;
+}
+
+.fa {
+    margin-right: 10px;
+}
