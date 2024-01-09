@@ -2,8 +2,7 @@ import { PropTypes } from 'prop-types'
 
 export const Number = ({ title, id, company }) => {
 
-    console.log(company)
-
+    //console.log(company)
     const {fiscalNumber, name} = company
 
   // fecha actual

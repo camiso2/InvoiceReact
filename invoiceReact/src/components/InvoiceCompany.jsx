@@ -7,7 +7,7 @@ export const Company = ({ company, title }) => {
     return <>
         <ul className="list-group ">
             <li className="list-group-item active back-cl">
-                <i class="fa fa-american-sign-language-interpreting"></i>
+                <i className="fa fa-american-sign-language-interpreting"></i>
                 <b>{title}</b>
             </li>
             <li className="list-group-item "> <span className='span-company'>{name}</span>  </li>

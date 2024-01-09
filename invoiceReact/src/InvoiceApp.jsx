@@ -32,12 +32,7 @@ const invoiceInitial = {
 
 }
 
-//definiendo campos como obj  
-const fieldsForm = {
-    product: '',
-    price: '',
-    quantity: '',
-}
+
 
 export const InvoiceApp = () => {
 
@@ -103,7 +98,7 @@ export const InvoiceApp = () => {
                    
                     <button className="btn btn-secondary back-cl" 
                     onClick={onActiveForm}>
-                         <i class="fa fa-edit"></i>
+                         <i className="fa fa-edit"></i>
                         {!activeDetailsItem?'Agregar Detalle Factura':'Ocultar Detalles Factura'}</button>
                     {
                     // opc1

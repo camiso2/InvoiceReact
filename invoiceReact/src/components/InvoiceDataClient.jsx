@@ -9,7 +9,7 @@ export const DataClient = ({ client, title }) => {
     return <>
         <ul className="list-group">
             <li className="list-group-item active back-cl">
-                <i class="fa fa-user"></i>
+                <i className="fa fa-user"></i>
                 <b>{title}</b>
             </li>
             <li className="list-group-item "><span className='span-wd'> Nombre :</span>  {nameClient + " " + lastName}</li>
