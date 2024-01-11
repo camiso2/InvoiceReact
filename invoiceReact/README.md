@@ -24,6 +24,7 @@ LIBRERIAS EXTERNAS
 <p align="left">
 * <a href="https://sweetalert2.github.io/">Sweet Alert2</a>
 * <a href="https://vitejs.dev/guide/">Vite</a>
+* <a href="https://getbootstrap.com/docs/5.3/getting-started/download/">Bootstrap</a>
 </p>
 
 
