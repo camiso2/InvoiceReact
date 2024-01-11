@@ -16,7 +16,7 @@ Utilidades REACT :: Crear Factura
 * Totaliza el costo de los productos.
 
 Tecnologías Usadas
-* Front-end  : JS->Rect 10, Vite
+* Front-end  : JS->React, Vite, Bootstrap5
 * Tiempo de desarrollo 32 horas
 
 
