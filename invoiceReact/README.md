@@ -1,4 +1,4 @@
-## Proyecto Personal REACT :: Create Invoice
+## Proyecto Personal REACT :: Crear Factura (Curso : UDEMY)
 
 
 Sistema desarrollado  
@@ -8,7 +8,7 @@ El sistema busca simular de forma generica la creación de una factura con datos
 ## <a href="https://www.youtube.com/watch?v=DZrnReaQ6oI" target="_blank">DEMO</a>
 
 
-Utilidades REACT :: Create Invoice
+Utilidades REACT :: Crear Factura
 
 * Lee los datos de un archivo (.json).
 * Crea Detalles de productos de manera dinámica.
